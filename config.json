@@ -16,7 +16,7 @@
     },
     "twitter-sparql": {
       "title": "Twitter",
-      "type": "OdmtpDatasource",
+      "type": "OdmtpTwitterDatasource.js",
       "description": "Twitter back-end",
       "settings": { "endpoint": "https://api.twitter.com" }
     }
